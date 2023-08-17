@@ -8,8 +8,8 @@ import org.springframework.data.annotation.Id;
 import java.util.Date;
 
 @Data//getter//setter
-@NoArgsConstructor//parametresiz constructor//çalışmadı
-@AllArgsConstructor//tüm parametreleri alan constructor//çalışmadı
+@NoArgsConstructor//parametresiz constructor
+@AllArgsConstructor//tüm parametreleri alan constructor
 public class Il {
 
     private Date createDate= new Date();
