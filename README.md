@@ -11,9 +11,5 @@ Plugins you need to add:
 Spring Data MongoDB
 Lombok
 Spring Web
-Spring Security
-SpringDataJPA
-H2 Database
 
-You can delete the contents of the application.properties file in case you encounter potential problems 
-when you start working on the h2 console.
+
